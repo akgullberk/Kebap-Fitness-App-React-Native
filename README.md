@@ -1,4 +1,4 @@
-KEBAP FİTNESS APP
+KEBAP FITNESS APP
 ----------------------------
 This project is a simple member registration application developed using React Native. It allows users to enter their details and navigate to a result screen showing the entered details. The project demonstrates the use of React Navigation for navigation between screens.
 
